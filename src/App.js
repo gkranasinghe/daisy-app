@@ -3,9 +3,9 @@ import './App.css';
 
 import { useState, useEffect } from "react";
 import axios from "axios";
-import Intro from "./components/Intro/Intro";
-import Navbar from "./components/Navbar/Navbar";
-import Photo from "./components/Photo/Photo";
+import Intro from "components/Intro/Intro";
+import Navbar from "components/Navbar/Navbar";
+import Photo from "components/Photo/Photo";
 
 
 const App = () => {
